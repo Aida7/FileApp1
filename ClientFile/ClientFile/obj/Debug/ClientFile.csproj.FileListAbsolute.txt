@@ -1,0 +1,14 @@
+C:\Users\Админ\source\repos\ClientFile\ClientFile\bin\Debug\ClientFile.exe.config
+C:\Users\Админ\source\repos\ClientFile\ClientFile\bin\Debug\ClientFile.exe
+C:\Users\Админ\source\repos\ClientFile\ClientFile\bin\Debug\ClientFile.pdb
+C:\Users\Админ\source\repos\ClientFile\ClientFile\obj\Debug\ClientFile.csprojResolveAssemblyReference.cache
+C:\Users\Админ\source\repos\ClientFile\ClientFile\obj\Debug\ClientFile.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\ClientFile\ClientFile\obj\Debug\ClientFile.exe
+C:\Users\Админ\source\repos\ClientFile\ClientFile\obj\Debug\ClientFile.pdb
+C:\Users\СадыковаА\Desktop\FileApp-master\ClientFile\ClientFile\bin\Debug\ClientFile.exe.config
+C:\Users\СадыковаА\Desktop\FileApp-master\ClientFile\ClientFile\bin\Debug\ClientFile.exe
+C:\Users\СадыковаА\Desktop\FileApp-master\ClientFile\ClientFile\bin\Debug\ClientFile.pdb
+C:\Users\СадыковаА\Desktop\FileApp-master\ClientFile\ClientFile\obj\Debug\ClientFile.csprojResolveAssemblyReference.cache
+C:\Users\СадыковаА\Desktop\FileApp-master\ClientFile\ClientFile\obj\Debug\ClientFile.csproj.CoreCompileInputs.cache
+C:\Users\СадыковаА\Desktop\FileApp-master\ClientFile\ClientFile\obj\Debug\ClientFile.exe
+C:\Users\СадыковаА\Desktop\FileApp-master\ClientFile\ClientFile\obj\Debug\ClientFile.pdb

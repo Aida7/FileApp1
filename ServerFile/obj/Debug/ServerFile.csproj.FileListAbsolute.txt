@@ -1,0 +1,14 @@
+C:\Users\Админ\source\repos\ServerFile\ServerFile\bin\Debug\ServerFile.exe.config
+C:\Users\Админ\source\repos\ServerFile\ServerFile\bin\Debug\ServerFile.exe
+C:\Users\Админ\source\repos\ServerFile\ServerFile\bin\Debug\ServerFile.pdb
+C:\Users\Админ\source\repos\ServerFile\ServerFile\obj\Debug\ServerFile.csprojResolveAssemblyReference.cache
+C:\Users\Админ\source\repos\ServerFile\ServerFile\obj\Debug\ServerFile.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\ServerFile\ServerFile\obj\Debug\ServerFile.exe
+C:\Users\Админ\source\repos\ServerFile\ServerFile\obj\Debug\ServerFile.pdb
+C:\Users\СадыковаА\Desktop\FileApp-master\ServerFile\obj\Debug\ServerFile.csprojResolveAssemblyReference.cache
+C:\Users\СадыковаА\Desktop\FileApp-master\ServerFile\obj\Debug\ServerFile.csproj.CoreCompileInputs.cache
+C:\Users\СадыковаА\Desktop\FileApp-master\ServerFile\obj\Debug\ServerFile.exe
+C:\Users\СадыковаА\Desktop\FileApp-master\ServerFile\obj\Debug\ServerFile.pdb
+C:\Users\СадыковаА\Desktop\FileApp-master\ServerFile\bin\Debug\ServerFile.exe.config
+C:\Users\СадыковаА\Desktop\FileApp-master\ServerFile\bin\Debug\ServerFile.exe
+C:\Users\СадыковаА\Desktop\FileApp-master\ServerFile\bin\Debug\ServerFile.pdb
